@@ -1,0 +1,7 @@
+This project focuses on analyzing the adoption and growth of electric vehicles (EVs) in India from 2020 to 2025 using data visualization techniques in Microsoft Power BI Desktop. The objective of the study is to understand trends in EV sales, charging infrastructure, battery capacity, pricing, and the impact of government incentives across different states.
+
+The dataset includes key variables such as EV sales, number of charging stations, average battery capacity, average price, and state-wise distribution. Various interactive dashboards were developed to visualize year-wise growth, vehicle type distribution, state-wise adoption, and the relationship between infrastructure and EV sales.
+
+The analysis reveals that EV adoption in India has increased significantly over the years, with two-wheelers contributing the largest share. It also highlights that states with better charging infrastructure show higher EV adoption, indicating a strong correlation between infrastructure and growth. Additionally, factors such as battery capacity and pricing play an important role in influencing consumer decisions.
+
+Overall, the project demonstrates how data visualization tools can be effectively used to derive meaningful insights and support decision-making in the evolving electric mobility sector. The findings suggest that continued government support and infrastructure development are essential for accelerating EV adoption in India.
